@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/styles/light-mode.css" />
+    <link
+      rel="stylesheet"
+      href="/styles/dark-mode.css"
+      id="dark-mode-styles"
+      disabled
+    />
+
+    <script src="/theme.js"></script>
+
+    <script src="/updated_script.js" defer></script>
+    <title>Add Files</title>
+  </head>
+  <body>
+    <!-- Header -->
+    <header class="header">
+      <a href="/">
+        <div class="logo-container">
+          <img src="/images/logo.png" alt="A+ Petroly Logo" class="logo" />
+          <span class="logo-text">Petroly</span>
+        </div>
+      </a>
+      <div class="tabs">
+        <button class="tab" onclick="location.href='/your-courses'">
+          Your Courses
+        </button>
+        <button class="tab" onclick="location.href='/files-by-majors'">
+          Files by Majors
+        </button>
+        <button class="tab" onclick="location.href='/general-courses'">
+          General Courses
+        </button>
+      </div>
+      <div class="icons">
+        <span class="icon" id="lang-en">🇬🇧</span>
+        <span class="icon" id="lang-ar">🇦🇪</span>
+        <span class="icon" id="theme-toggle">☀️</span>
+      </div>
+    </header>
+
+    <hr class="styled-hr" />
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="form-container">
+        <div class="file-upload">
+          <label for="file-input">
+            <img
+              src="/images/arrow.png"
+              alt="Upload Icon"
+              class="upload-icon"
+            />
+          </label>
+          <input type="file" id="file-input" style="display: none" />
+        </div>
+        <div class="form-fields">
+          <h2>Add Your Files</h2>
+          <form id="add-file-form">
+            <label for="file-type">File Type</label>
+            <select id="file-type" required>
+              <option value="" disabled selected>Choose File Type</option>
+              <option value="quizzes">Quizzes</option>
+              <option value="old-exams">Old Exams</option>
+              <option value="notes">Notes</option>
+            </select>
+
+            <label for="major">Major</label>
+            <select id="major" required>
+              <option value="" disabled selected>Choose Major</option>
+            </select>
+
+            <div id="course-container" style="display: none">
+              <label for="course">Course</label>
+              <select id="course" required>
+                <option value="" disabled selected>Choose Course</option>
+                <!-- Populated dynamically via JavaScript -->
+              </select>
+            </div>
+
+            <button type="submit" class="btn">Submit</button>
+          </form>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">&copy; 2025 Haytham Hamdan</footer>
+  </body>
+</html>

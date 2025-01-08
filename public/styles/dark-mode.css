@@ -1,0 +1,554 @@
+/* Dark mode styles */
+body {
+  background-color: #1e201e;
+  color: #e1e1e1;
+}
+
+/* Hero Section */
+.hero {
+  background: linear-gradient(135deg, #8d77ab, #73618a, #625478);
+  color: #e1e1e1;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.hero .btn {
+  background: #1e201e;
+  color: #e1e1e1;
+  font-weight: bold;
+  border: none;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.hero .btn:hover {
+  background: #333333;
+  transform: scale(1.05);
+}
+
+/* Tabs */
+/* Tabs Fix */
+.tab {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #e1e1e1;
+  padding: 10px 20px;
+  background-color: #73618a;
+  border: 2px solid #625478;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.tab:hover,
+.tab:focus {
+  background: #4b3e66; /* Dark hover background */
+  color: #e1e1e1; /* Keep consistent text color */
+}
+
+.tab:active {
+  background: #625478; /* Active tab styling */
+  color: #fff;
+}
+
+#A {
+  color: rgb(83, 0, 192);
+  font-size: 4.5rem;
+}
+
+/* Icons */
+.icon {
+  font-size: 1.5rem;
+  color: #e1e1e1;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+}
+
+/* Cards Section */
+.cards {
+  display: flex;
+  justify-content: center; /* Centers cards with tight spacing */
+  gap: 50px; /* Minimal gap */
+  margin-top: -70px; /* Overlaps hero section */
+  padding: 0; /* No padding around the container */
+  position: relative;
+  z-index: 2;
+}
+
+.hero {
+  position: relative;
+  z-index: 1; /* Ensure the hero section is below the cards */
+}
+
+.cards {
+  display: flex;
+  justify-content: center; /* Centers cards with tight spacing */
+  gap: 50px; /* Minimal gap */
+  margin-top: -70px; /* Overlaps hero section */
+  padding: 0; /* No padding around the container */
+  position: relative;
+  z-index: 2;
+}
+
+.hero {
+  position: relative;
+  z-index: 1; /* Ensure the hero section is below the cards */
+}
+
+/* Cards Section */
+/* Cards Section - Dark Mode */
+.card {
+  background: #4b3e66; /* Background for cards in dark mode */
+  color: #e1e1e1; /* Text color */
+  border: 2px solid #625478; /* Border color for contrast */
+  border-radius: 15px; /* Rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  padding: 20px;
+  text-align: center;
+  width: 350px;
+  height: 300px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease,
+    color 0.3s ease;
+}
+
+.card h3 {
+  color: #e1e1e1; /* Title text color */
+  font-size: 1.5rem;
+  margin-bottom: 12px;
+}
+
+.card p {
+  font-size: 1rem; /* Font size for description text */
+  color: #bbb; /* Softer text color */
+  margin: 5px 0;
+}
+
+/* Hover Effect */
+.card:hover {
+  transform: translateY(-10px); /* Lift effect */
+  background: #6a5b87; /* Darker hover background for better contrast */
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4); /* More prominent shadow */
+  color: #f1f1f1; /* Slightly brighter text color */
+}
+
+.card:hover h3 {
+  color: #ffffff; /* Ensure the title stands out on hover */
+}
+
+.card:hover p {
+  color: #ddd; /* Softer text color for better readability */
+}
+
+/* Hover content - Dark Mode */
+.card .hover-content {
+  background: rgba(
+    255,
+    255,
+    255,
+    0.1
+  ); /* Semi-transparent white for hover overlay */
+  color: #e1e1e1; /* Text color */
+  border-radius: 8px;
+}
+
+.card .hover-link {
+  color: #e1e1e1; /* Hover link color */
+  text-decoration: none;
+  background-color: #73618a; /* Background for hover links */
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.card .hover-link:hover {
+  background-color: #8d77ab; /* Highlight hover effect */
+  color: #ffffff; /* Brighter text on hover */
+}
+
+/* Buttons */
+.button {
+  background: #1e201e;
+  color: #e1e1e1;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.button:hover {
+  background: #333333;
+}
+
+/* Links */
+a {
+  color: #8d77ab;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.styled-hr {
+  margin: 60px auto; /* Increased top and bottom margin */
+  width: 100%;
+  border: none;
+  border-top: 1px solid #8d77ab;
+}
+
+.developer h2 {
+  font-size: 1.8rem;
+  color: #ffffff;
+  margin-bottom: 20px; /* Add spacing below the heading */
+}
+
+.footer {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.9rem;
+  color: #555;
+  background-color: #8d77ab;
+}
+
+.form-container {
+  background: linear-gradient(135deg, #8d77ab, #73618a, #625478);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 30px; /* Reduced padding */
+  border-radius: 15px;
+  margin: 20px auto; /* Reduced margin */
+  width: 55%; /* Reduced width */
+  height: 80%;
+}
+
+.file-upload {
+  background-color: #333;
+  width: 200px;
+  height: 250px; /* Increased height for the file picker */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed #73618a;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.file-upload:hover {
+  background-color: #625478;
+}
+
+.upload-icon {
+  filter: invert(
+    1
+  ); /* Ensures the upload icon is visible on dark backgrounds */
+}
+
+.form-fields {
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  gap: 15px; /* Space between fields */
+  width: 300px; /* Fixed width for consistent layout */
+}
+
+.form-fields h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #e1e1e1;
+}
+
+.form-fields label {
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: left; /* Align labels to the left */
+  color: #e1e1e1;
+}
+
+.form-fields select,
+.form-fields button {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #625478;
+  background-color: #333;
+  color: #e1e1e1;
+  cursor: pointer;
+  width: 100%; /* Full width of the field */
+}
+
+.form-fields button {
+  background-color: #73618a;
+  margin-top: 20px; /* Add space above the submit button */
+}
+
+.form-fields button:hover {
+  background-color: #625478;
+}
+
+.file-list-container {
+  margin: 20px auto; /* Center the container horizontally */
+  max-width: 90%; /* Restrict the width */
+  text-align: left; /* Align contents to the left */
+}
+
+.file-list-title {
+  text-align: center; /* Center the title horizontally */
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #e1e1e1;
+  margin-bottom: 15px; /* Space between title and the list */
+}
+
+.file-list {
+  list-style: none;
+  padding: 0;
+  margin: 0; /* Remove default margin */
+  display: flex;
+  justify-content: flex-start; /* Align cards to the left */
+  gap: 10px; /* Space between cards */
+  flex-wrap: wrap; /* Allow wrapping to the next row */
+}
+
+.file-list li {
+  padding: 10px 15px; /* Adjust padding for size */
+  background-color: #333;
+  border: 1px solid #625478;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #e1e1e1;
+  text-align: center; /* Center text inside the card */
+  transition: background 0.3s ease;
+  display: inline-block;
+  white-space: nowrap; /* Prevent text wrapping */
+  box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+  height: 55px;
+}
+
+.file-list li:hover {
+  background-color: #73618a;
+}
+/* Styling for Sign In Button (Dark Mode) */
+.signin-btn-dark {
+  background-color: #73618a; /* Dark background color matching the theme */
+  color: #e1e1e1; /* Light text color for contrast */
+  font-weight: bold;
+  border: 2px solid #625478; /* Border matching the dark theme */
+  border-radius: 5px; /* Rounded corners for modern look */
+  padding: 10px 20px; /* Spacing for a clean button size */
+  cursor: pointer;
+  font-size: 1rem; /* Readable font size */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover Effect */
+.signin-btn-dark:hover {
+  background-color: #8d77ab; /* Slightly brighter background on hover */
+  color: #ffffff; /* Brighter text color */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhanced shadow effect */
+}
+
+/* Responsive adjustments */
+.user-info {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  /* Header Adjustments */
+  .hero-nav {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px; /* Add padding around */
+    z-index: 10; /* Ensure it stays on top */
+  }
+
+  .logo-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .logo {
+    width: 30px; /* Smaller logo size */
+  }
+
+  .logo-text {
+    font-size: 0.8rem; /* Smaller text size */
+  }
+
+  .tabs {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    font-size: 0.8rem; /* Reduce font size for tabs */
+  }
+
+  .tab {
+    padding: 5px 8px; /* Smaller padding for tabs */
+    font-size: 0.8rem; /* Smaller font size */
+  }
+
+  .icons {
+    display: flex;
+    gap: 10px; /* Reduce spacing between icons */
+    font-size: 1rem; /* Reduce icon size */
+  }
+
+  .user-info {
+    font-size: 0.8rem; /* Smaller font size for user info */
+    top: 15px;
+    right: 10px;
+  }
+
+  /* Hero Section Adjustments */
+  .hero {
+    margin-top: 70px; /* Push hero down to accommodate tabs */
+    padding: 30px 15px;
+  }
+
+  .hero h1 {
+    font-size: 2rem; /* Smaller heading */
+  }
+
+  .hero h2 {
+    font-size: 1.2rem; /* Smaller subheading */
+  }
+
+  .hero p {
+    font-size: 0.9rem; /* Smaller paragraph text */
+  }
+
+  /* Cards Section Adjustments */
+  .homepage .cards {
+    flex-direction: column;
+    gap: 15px; /* Reduce spacing between cards */
+    margin-top: 10px; /* Adjust margin under hero */
+  }
+
+  .homepage .card {
+    width: 80%; /* Reduce card width */
+    padding: 15px; /* Reduce padding */
+    font-size: 0.9rem; /* Reduce text size */
+    margin: 0 auto; /* Center cards underneath the hero */
+  }
+
+  .homepage .card h3 {
+    font-size: 1rem; /* Smaller heading size for cards */
+  }
+
+  .homepage .card p {
+    font-size: 0.8rem; /* Smaller paragraph size */
+  }
+}
+
+/* For phones (480px and below) */
+@media screen and (max-width: 480px) {
+  /* Header Adjustments */
+  .hero-nav {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px; /* Reduce padding further */
+    z-index: 10;
+  }
+
+  .logo-container {
+    flex: 0;
+    width: 30px;
+  }
+
+  .logo {
+    width: 20px; /* Smaller logo size */
+  }
+
+  .logo-text {
+    font-size: 0.7rem; /* Smaller text size */
+  }
+
+  .tabs {
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+    font-size: 0.7rem; /* Smaller font size for tabs */
+  }
+
+  .tab {
+    padding: 4px 6px; /* Reduce padding further */
+    font-size: 0.7rem; /* Reduce font size */
+  }
+
+  .icons {
+    gap: 5px; /* Smaller spacing between icons */
+    font-size: 0.8rem; /* Reduce icon size further */
+  }
+
+  .user-info {
+    font-size: 0.7rem; /* Smaller font size */
+    top: 10px;
+    right: 5px;
+  }
+
+  /* Hero Section Adjustments */
+  .hero {
+    margin-top: 100px; /* Push hero further down */
+    padding: 20px 10px;
+    font-size: 0.8rem;
+  }
+
+  .hero h1 {
+    font-size: 1.8rem; /* Smaller heading */
+  }
+
+  .hero h2 {
+    font-size: 1rem; /* Smaller subheading */
+  }
+
+  .hero p {
+    font-size: 0.8rem; /* Smaller paragraph text */
+  }
+
+  /* Cards Section Adjustments */
+  .homepage .cards {
+    flex-direction: column;
+    gap: 10px; /* Smaller spacing between cards */
+    margin-top: 5px;
+  }
+
+  .homepage .card {
+    width: 90%; /* Reduce card width further */
+    padding: 10px;
+    font-size: 0.8rem;
+    margin: 0 auto;
+  }
+
+  .homepage .card h3 {
+    font-size: 0.9rem;
+  }
+
+  .homepage .card p {
+    font-size: 0.7rem;
+  }
+  .hero #welcome {
+    visibility: hidden;
+  }
+}

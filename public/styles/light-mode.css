@@ -1,0 +1,930 @@
+/* Content from /mnt/data/main.css */
+/* General reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.6;
+  background-color: #f4e3c1;
+  color: #333;
+}
+
+/* User Info */
+.user-info {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.user-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.username {
+  font-weight: bold;
+}
+
+/* Hero Section */
+.hero {
+  position: relative;
+  background: linear-gradient(135deg, #f7e6a2, #f2d085, #e8c547);
+  border-radius: 15px;
+  padding: 120px 50px;
+  width: 90%;
+  margin: 80px auto 0 auto;
+  text-align: center;
+  color: #333;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  position: absolute; /* Ensure it stays in place */
+  top: 20px;
+  left: 20px;
+}
+
+.logo {
+  width: 50px;
+}
+
+.logo-text {
+  font-weight: bold;
+  margin-left: -9px; /* Move the text closer to the logo */
+  font-size: 1em; /* Adjust the font size */
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.tabs {
+  position: absolute; /* Make it positioned relative to its container */
+  top: 20px; /* Align with logo and icons */
+  left: 50%; /* Center horizontally */
+  transform: translateX(
+    -50%
+  ); /* Adjust centering due to absolute positioning */
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.tab {
+  font-size: 0.9rem; /* Smaller size */
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+  padding: 10px 20px;
+  background-color: #fff7d4;
+  border: 2px solid #e8c547;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.tab:hover,
+.tab:focus {
+  background: #e8c547;
+  color: #fff;
+}
+
+.icons {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.icon {
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+#A {
+  color: rgb(124, 25, 25);
+  font-size: 4.5rem;
+}
+
+.hero p {
+  font-size: 1rem;
+  margin-bottom: 40px;
+  padding: 0;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.hero h2 {
+  font-size: 2.2rem;
+  font-family: "Nerko One", cursive;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.hero .btns {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.hero .btn {
+  padding: 15px 30px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  background: #e8c547;
+  color: #333;
+  font-weight: bold;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.hero .btn:hover {
+  background: #f4e3c1;
+  transform: scale(1.05);
+}
+
+/* Cards Section */
+
+.hero {
+  position: relative;
+  z-index: 1; /* Ensure the hero section is below the cards */
+}
+
+.cards {
+  display: flex;
+  justify-content: center; /* Centers cards with tight spacing */
+  gap: 50px; /* Minimal gap */
+  margin-top: -70px; /* Overlaps hero section */
+  padding: 0; /* No padding around the container */
+  position: relative;
+  z-index: 2;
+}
+
+.cards {
+  display: flex;
+  justify-content: center; /* Centers cards with tight spacing */
+  gap: 50px; /* Minimal gap */
+  margin-top: -70px; /* Overlaps hero section */
+  padding: 0; /* No padding around the container */
+  position: relative;
+  z-index: 2;
+}
+
+.card {
+  background: #fff7d4;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px; /* Increased padding for spacious layout */
+  text-align: center; /* Centers the icon and title */
+  width: 350px; /* Increased width */
+  height: 300px; /* Increased height */
+  display: flex;
+  flex-direction: column; /* Align items vertically */
+  align-items: center; /* Center icon and h3 */
+  gap: 10px; /* Space between icon, h3, and paragraph */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card h3 {
+  font-size: 1.5rem; /* Increased font size */
+  margin-top: 5px; /* Reduced spacing at the top */
+  margin-bottom: 0; /* Remove spacing below the title */
+}
+
+.card p {
+  font-size: 1rem; /* Larger font size for better readability */
+  color: #555;
+  margin: 5px 0; /* Added minimal vertical margin */
+  text-align: left; /* Align text to the left */
+  width: 100%; /* Ensure paragraph spans the card width */
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Horizontal Rule */
+.styled-hr {
+  margin: 60px auto; /* Increased top and bottom margin */
+  width: 100%;
+  border: none;
+  border-top: 1px solid #d4b483;
+}
+
+/* Developer Section */
+.developer {
+  text-align: center;
+  margin: 40px 0;
+  color: #333;
+}
+
+.developer h2 {
+  font-size: 1.8rem;
+  color: #333;
+  margin-bottom: 20px; /* Add spacing below the heading */
+}
+
+.developer .logo-container {
+  position: relative;
+  display: flex;
+  justify-content: center; /* Center align icons */
+  gap: 50px; /* Space between the two logos */
+  align-items: center;
+  margin-top: 10px; /* Add spacing from the <h2> */
+  top: -10px; /* Push icons a bit up */
+  left: -10px; /* Push icons a bit to the left */
+}
+
+.developer .devlogo-container a {
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+}
+
+.devlogo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add transition for hover */
+}
+
+.devlogo-text {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin-top: 5px;
+  color: #555;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Hover effect for icons */
+.devlogo:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.9rem;
+  color: #555;
+  background-color: #fff7d4;
+}
+
+/* Content from /mnt/data/files-by-major.css */
+/* Header Styling */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.tabs {
+  display: flex;
+  gap: 15px;
+}
+
+.icons {
+  display: flex;
+  gap: 15px;
+  margin-left: auto; /* Push to the left */
+}
+
+/* Main Content Styling */
+.main-content {
+  padding: 20px; /* Push down the cards */
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+/* Cards Styling */
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  width: 300px; /* Increased width */
+  height: 250px; /* Increased height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff7d4;
+  border: 2px solid #e8c547;
+  border-radius: 15px; /* More rounded corners */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+  font-size: 1.5rem; /* Larger font size */
+  font-weight: bold;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-15px); /* Increased hover lift */
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3); /* Stronger shadow */
+}
+
+hr {
+  border: 1px solid #e8c547;
+  margin-top: 60px;
+}
+
+/* Home Page Cards (Light Mode) */
+
+/* Cards Section */
+.cards {
+  display: flex;
+  justify-content: center; /* Centers cards with tight spacing */
+  gap: 50px; /* Minimal gap */
+  margin-top: -70px; /* Overlaps hero section */
+  padding: 0; /* No padding around the container */
+  position: relative;
+  z-index: 2;
+}
+
+.card {
+  background: #fff7d4;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px; /* Increased padding for spacious layout */
+  text-align: center;
+  width: 350px; /* Increased width */
+  height: 300px; /* Increased height */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card h3 {
+  font-size: 1.5rem; /* Increased font size */
+  margin-bottom: 12px; /* Increased spacing below title */
+}
+
+.card p {
+  font-size: 1rem; /* Larger font size for better readability */
+  color: #555;
+  margin: 5px 0; /* Added minimal vertical margin */
+  text-align: left; /* Align text to the left */
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* General Courses Card Hover Effect */
+.card {
+  position: relative;
+  overflow: hidden;
+}
+
+.card .hover-content {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+  color: #fff;
+}
+
+.card:hover .hover-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  text-align: left;
+  width: 90%;
+}
+
+.card:hover h3 {
+  opacity: 0; /* Hide title on hover */
+}
+
+.card .hover-link {
+  display: block;
+  background-color: #e8c547; /* Styled background */
+  color: #333; /* Styled text */
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-align: left;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.card .hover-link:hover {
+  background-color: #f2d085;
+}
+
+.heart-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: red;
+  transition: transform 0.2s ease;
+}
+
+.heart-icon:hover {
+  transform: scale(1.2);
+}
+
+/* Prevent Hover Effect for Homepage Cards */
+.homepage .card:hover .hover-content {
+  display: none;
+}
+
+.homepage .card:hover h3 {
+  opacity: 1; /* Keep title visible */
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+main {
+  flex: 1;
+}
+
+.footer {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.9rem;
+  color: #555;
+  background-color: #fff7d4;
+}
+
+/* Reduce space between title and cards */
+.main-content h2 {
+  text-align: left; /* Optional: Align the text to the left */
+}
+
+.card-container {
+  margin-top: 0; /* Remove extra space above cards */
+}
+
+/* Footer always at the bottom */
+html,
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1; /* Fills available space */
+}
+
+.footer {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.9rem;
+  color: #555;
+  background-color: #fff7d4;
+}
+
+/* Hover content */
+.card {
+  position: relative;
+  overflow: hidden;
+}
+
+.card .hover-content {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.card:hover .hover-content {
+  display: block;
+}
+
+.card .hover-link {
+  color: white;
+  text-decoration: none;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.card .hover-link:hover {
+  text-decoration: underline;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px; /* Reduced spacing between cards */
+  justify-content: center; /* Center the cards horizontally */
+  margin-top: 10px; /* Reduced space between heading and cards */
+  width: 100%; /* Ensures the container spans the full width */
+}
+
+h2 {
+  text-align: center; /* Centers the heading text */
+  margin-bottom: 10px; /* Reduced spacing between heading and cards */
+}
+
+.form-container {
+  background: linear-gradient(135deg, #f7e6a2, #f2d085, #e8c547);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 30px; /* Reduced padding */
+  border-radius: 15px;
+  margin: 20px auto; /* Reduced margin */
+  width: 55%; /* Reduced width */
+  height: 80%;
+}
+
+.file-upload {
+  background-color: #fff7d4;
+  width: 200px;
+  height: 250px; /* Increase height for the file picker */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed #d4b483;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.file-upload:hover {
+  background-color: #e8c547;
+}
+
+.upload-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.form-fields {
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  gap: 15px;
+  width: 300px; /* Limit width for consistent alignment */
+}
+
+.form-fields h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.form-fields label {
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: left; /* Align labels to the left */
+}
+
+.form-fields select,
+.form-fields button {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #d4b483;
+  background-color: #fff;
+  cursor: pointer;
+  width: 100%; /* Make select and button fields span full width */
+}
+
+.form-fields button {
+  background-color: #e8c547;
+  color: #333;
+  font-weight: bold;
+  margin-top: 20px; /* Add spacing above the submit button */
+}
+
+.form-fields button:hover {
+  background-color: #d4b483;
+}
+
+.file-list-container {
+  margin: 20px auto; /* Center the container horizontally */
+  max-width: 90%; /* Restrict the width */
+  text-align: left; /* Align contents to the left */
+}
+
+.file-list-title {
+  text-align: center; /* Center the title horizontally */
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 15px; /* Space between title and the list */
+}
+
+.file-list {
+  list-style: none;
+  padding: 0;
+  margin: 0; /* Remove default margin */
+  display: flex;
+  justify-content: flex-start; /* Align cards to the left */
+  gap: 10px; /* Space between cards */
+  flex-wrap: wrap; /* Allow wrapping to the next row */
+}
+
+.file-list li {
+  padding: 10px 15px; /* Adjust padding for size */
+  background-color: #fff7d4;
+  border: 1px solid #d4b483;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #333;
+  text-align: center; /* Center text inside the card */
+  transition: background 0.3s ease;
+  display: inline-block;
+  white-space: nowrap; /* Prevent text wrapping */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  height: 55px;
+}
+
+.file-list li:hover {
+  background-color: #e8c547;
+}
+
+.user-icon {
+  width: 40px; /* Set the size */
+  height: 40px;
+  border-radius: 50%; /* Make it circular */
+  object-fit: cover; /* Crop the image nicely */
+}
+
+/* Styling for Sign In Button */
+.signin-btn {
+  background-color: #e8c547; /* Matches the theme's yellow */
+  color: #333; /* Text color */
+  font-weight: bold;
+  border: 2px solid #d4b483; /* Subtle border for definition */
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 1rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover Effect */
+.signin-btn:hover {
+  background-color: #d4b483; /* Slightly darker yellow on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slightly larger shadow */
+}
+
+/* Responsive adjustments */
+.user-info {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Media Queries for Responsive Design */
+
+/* Media Queries for Responsive Design */
+/* Media Queries for Responsive Design */
+
+/* Media Queries for Responsive Design */
+
+/* For tablets (768px and below) */
+/* Media query for tablets and phones */
+@media screen and (max-width: 768px) {
+  /* Header Adjustments */
+  .hero-nav {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px; /* Add padding around */
+    z-index: 10; /* Ensure it stays on top */
+  }
+
+  .logo-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .logo {
+    width: 30px; /* Smaller logo size */
+  }
+
+  .logo-text {
+    font-size: 0.8rem; /* Smaller text size */
+  }
+
+  .tabs {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    font-size: 0.8rem; /* Reduce font size for tabs */
+  }
+
+  .tab {
+    padding: 5px 8px; /* Smaller padding for tabs */
+    font-size: 0.8rem; /* Smaller font size */
+  }
+
+  .icons {
+    display: flex;
+    gap: 10px; /* Reduce spacing between icons */
+    font-size: 1rem; /* Reduce icon size */
+  }
+
+  .user-info {
+    font-size: 0.8rem; /* Smaller font size for user info */
+    top: 15px;
+    right: 10px;
+  }
+
+  /* Hero Section Adjustments */
+  .hero {
+    margin-top: 70px; /* Push hero down to accommodate tabs */
+    padding: 30px 15px;
+  }
+
+  .hero h1 {
+    font-size: 2rem; /* Smaller heading */
+  }
+
+  .hero h2 {
+    font-size: 1.2rem; /* Smaller subheading */
+  }
+
+  .hero p {
+    font-size: 0.9rem; /* Smaller paragraph text */
+  }
+
+  /* Cards Section Adjustments */
+  .homepage .cards {
+    flex-direction: column;
+    gap: 15px; /* Reduce spacing between cards */
+    margin-top: 10px; /* Adjust margin under hero */
+  }
+
+  .homepage .card {
+    width: 80%; /* Reduce card width */
+    padding: 15px; /* Reduce padding */
+    font-size: 0.9rem; /* Reduce text size */
+    margin: 0 auto; /* Center cards underneath the hero */
+  }
+
+  .homepage .card h3 {
+    font-size: 1rem; /* Smaller heading size for cards */
+  }
+
+  .homepage .card p {
+    font-size: 0.8rem; /* Smaller paragraph size */
+  }
+
+}
+
+/* For phones (480px and below) */
+@media screen and (max-width: 480px) {
+  .hero #welcome {
+    visibility: hidden;
+  }
+  /* Header Adjustments */
+  .hero-nav {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px; /* Reduce padding further */
+    z-index: 10;
+  }
+
+  .logo-container {
+    flex: 0;
+    width: 30px;
+  }
+
+  .logo {
+    width: 20px; /* Smaller logo size */
+  }
+
+  .logo-text {
+    font-size: 0.7rem; /* Smaller text size */
+  }
+
+  .tabs {
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+    font-size: 0.7rem; /* Smaller font size for tabs */
+  }
+
+  .tab {
+    padding: 4px 6px; /* Reduce padding further */
+    font-size: 0.7rem; /* Reduce font size */
+  }
+
+  .icons {
+    gap: 5px; /* Smaller spacing between icons */
+    font-size: 0.8rem; /* Reduce icon size further */
+  }
+
+  .user-info {
+    font-size: 0.7rem; /* Smaller font size */
+    top: 10px;
+    right: 5px;
+  }
+
+  /* Hero Section Adjustments */
+  .hero {
+    margin-top: 100px; /* Push hero further down */
+    padding: 20px 10px;
+    font-size: 0.8rem;
+  }
+
+  .hero h1 {
+    font-size: 1.8rem; /* Smaller heading */
+  }
+
+  .hero h2 {
+    font-size: 1rem; /* Smaller subheading */
+  }
+
+  .hero p {
+    font-size: 0.8rem; /* Smaller paragraph text */
+  }
+
+  /* Cards Section Adjustments */
+  .homepage .cards {
+    flex-direction: column;
+    gap: 10px; /* Smaller spacing between cards */
+    margin-top: 5px;
+  }
+
+  .homepage .card {
+    width: 90%; /* Reduce card width further */
+    padding: 10px;
+    font-size: 0.8rem;
+    margin: 0 auto;
+  }
+
+  .homepage .card h3 {
+    font-size: 0.9rem;
+  }
+
+  .homepage .card p {
+    font-size: 0.7rem;
+  }
+}

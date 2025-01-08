@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/styles/light-mode.css" />
+    <link
+      rel="stylesheet"
+      href="/styles/dark-mode.css"
+      id="dark-mode-styles"
+      disabled
+    />
+
+    <script src="/theme.js"></script>
+
+    <script src="/updated_script.js" defer></script>
+
+    <title>A+ Petroly</title>
+  </head>
+  <body class="homepage">
+    <!-- User Login Info -->
+    <div class="user-info">
+      <button id="auth-button" class="signin-btn signin-btn-dark">
+        Sign In
+      </button>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="hero">
+      <a href="/">
+        <div class="logo-container">
+          <img src="/images/logo.png" alt="A+ Petroly Logo" class="logo" />
+          <span class="logo-text">Petroly</span>
+        </div>
+      </a>
+
+      <div class="hero-nav">
+        <div class="tabs">
+          <button class="tab" onclick="location.href='/your-courses'">
+            Your Courses
+          </button>
+          <button
+            class="tab"
+            id="files-by-majors"
+            onclick="location.href='/files-by-majors'"
+          >
+            Files by Majors
+          </button>
+          <button class="tab" onclick="location.href='/general-courses'">
+            General Courses
+          </button>
+        </div>
+        <div class="icons">
+          <span class="icon" id="lang-en">🇬🇧</span>
+          <span class="icon" id="lang-ar">🇦🇪</span>
+          <span class="icon" id="theme-toggle">☀️</span>
+        </div>
+      </div>
+
+      <h1 id="welcome">Welcome</h1>
+      <p>to the ultimate platform for KFUPM students!</p>
+      <h2>SET OUT ON THE PATH TO BECOME AN <span id="A">A+</span> STUDENT!</h2>
+      <div class="btns">
+        <button class="btn" onclick="location.href='/general-courses'">
+          Discover Files
+        </button>
+        <button class="btn" id="add-files-btn">Add yours!</button>
+      </div>
+    </section>
+
+    <section class="cards">
+      <div class="card">
+        <h3>📂 Organized Access</h3>
+        <p>
+          Gain seamless access to well-structured study materials tailored by
+          major and course. Explore a robust platform designed to save time,
+          simplify navigation, and ensure all resources are easily accessible.
+        </p>
+      </div>
+      <div class="card">
+        <h3>🤝 Share Resources</h3>
+        <p>
+          Join a collaborative community where students actively share their
+          notes, assignments, and supplementary study materials. Contribute your
+          resources to enhance collective learning experiences.
+        </p>
+      </div>
+      <div class="card">
+        <h3>🎓 Exclusive Community</h3>
+        <p>
+          Become part of a vibrant network of students across diverse
+          disciplines, fostering an environment of mutual support, growth, and
+          knowledge-sharing that extends beyond the classroom.
+        </p>
+      </div>
+    </section>
+
+    <hr class="styled-hr" />
+    <section class="developer">
+      <h2>Developer</h2>
+      <div class="logo-container">
+        <a href="https://x.com/haithamH003" target="_blank">
+          <img src="/images/X_icon.png" alt="X Icon" class="devlogo" />
+        </a>
+        <a
+          href="https://www.linkedin.com/in/haitham-hamdan-3251ab292/"
+          target="_blank"
+        >
+          <img
+            src="/images/linkedin.webp"
+            alt="LinkedIn Icon"
+            class="devlogo"
+          />
+        </a>
+      </div>
+    </section>
+
+    <footer class="footer">&copy; 2025 Haytham Hamdan</footer>
+    <script src="/auth.js" type="module"></script>
+  </body>
+</html>

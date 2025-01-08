@@ -1,0 +1,4429 @@
+{
+  "AE": [
+    {
+      "id": "ae211",
+      "name": "AE211",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae222",
+      "name": "AE222",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae240",
+      "name": "AE240",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae314",
+      "name": "AE314",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae315",
+      "name": "AE315",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae321",
+      "name": "AE321",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae325",
+      "name": "AE325",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae328",
+      "name": "AE328",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae358",
+      "name": "AE358",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae410",
+      "name": "AE410",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae411",
+      "name": "AE411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae412",
+      "name": "AE412",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae422",
+      "name": "AE422",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae423",
+      "name": "AE423",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae426",
+      "name": "AE426",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae427",
+      "name": "AE427",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae433",
+      "name": "AE433",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae449",
+      "name": "AE449",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae490",
+      "name": "AE490",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae491",
+      "name": "AE491",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae590",
+      "name": "AE590",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae599",
+      "name": "AE599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae606",
+      "name": "AE606",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae610",
+      "name": "AE610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae619",
+      "name": "AE619",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ae630",
+      "name": "AE630",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "ARE": [
+    {
+      "id": "are201",
+      "name": "ARE201",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are220",
+      "name": "ARE220",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are230",
+      "name": "ARE230",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are301",
+      "name": "ARE301",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are322",
+      "name": "ARE322",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are330",
+      "name": "ARE330",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are399",
+      "name": "ARE399",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are411",
+      "name": "ARE411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are421",
+      "name": "ARE421",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are432",
+      "name": "ARE432",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are438",
+      "name": "ARE438",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are460",
+      "name": "ARE460",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are501",
+      "name": "ARE501",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are528",
+      "name": "ARE528",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are530",
+      "name": "ARE530",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are535",
+      "name": "ARE535",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "are610",
+      "name": "ARE610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "AS": [
+    {
+      "id": "as201",
+      "name": "AS201",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "as380",
+      "name": "AS380",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "as389",
+      "name": "AS389",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "as450",
+      "name": "AS450",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "as481",
+      "name": "AS481",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "as490",
+      "name": "AS490",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "BIOE": [
+    {
+      "id": "bioe201",
+      "name": "BIOE201",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe202",
+      "name": "BIOE202",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe303",
+      "name": "BIOE303",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe311",
+      "name": "BIOE311",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe312",
+      "name": "BIOE312",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe316",
+      "name": "BIOE316",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe337",
+      "name": "BIOE337",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe411",
+      "name": "BIOE411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe501",
+      "name": "BIOE501",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe503",
+      "name": "BIOE503",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe514",
+      "name": "BIOE514",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe524",
+      "name": "BIOE524",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe534",
+      "name": "BIOE534",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "bioe610",
+      "name": "BIOE610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "CHE": [
+    {
+      "id": "che200",
+      "name": "CHE200",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che204",
+      "name": "CHE204",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che212",
+      "name": "CHE212",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che300",
+      "name": "CHE300",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che303",
+      "name": "CHE303",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che304",
+      "name": "CHE304",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che306",
+      "name": "CHE306",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che309",
+      "name": "CHE309",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che360",
+      "name": "CHE360",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che399",
+      "name": "CHE399",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che401",
+      "name": "CHE401",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che402",
+      "name": "CHE402",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che405",
+      "name": "CHE405",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che409",
+      "name": "CHE409",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che411",
+      "name": "CHE411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che412",
+      "name": "CHE412",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che432",
+      "name": "CHE432",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che444",
+      "name": "CHE444",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che458",
+      "name": "CHE458",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che461",
+      "name": "CHE461",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che463",
+      "name": "CHE463",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che490",
+      "name": "CHE490",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che494",
+      "name": "CHE494",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che501",
+      "name": "CHE501",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che511",
+      "name": "CHE511",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che513",
+      "name": "CHE513",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che530",
+      "name": "CHE530",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che532",
+      "name": "CHE532",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che561",
+      "name": "CHE561",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che567",
+      "name": "CHE567",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che599",
+      "name": "CHE599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che606",
+      "name": "CHE606",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che610",
+      "name": "CHE610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che619",
+      "name": "CHE619",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che699",
+      "name": "CHE699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che701",
+      "name": "CHE701",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che702",
+      "name": "CHE702",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che711",
+      "name": "CHE711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "che712",
+      "name": "CHE712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "CHEM": [
+    {
+      "id": "chem101",
+      "name": "CHEM101",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem102",
+      "name": "CHEM102",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem201",
+      "name": "CHEM201",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem202",
+      "name": "CHEM202",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem221",
+      "name": "CHEM221",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem222",
+      "name": "CHEM222",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem311",
+      "name": "CHEM311",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem312",
+      "name": "CHEM312",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem324",
+      "name": "CHEM324",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem325",
+      "name": "CHEM325",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem335",
+      "name": "CHEM335",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem451",
+      "name": "CHEM451",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem463",
+      "name": "CHEM463",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem488",
+      "name": "CHEM488",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem501",
+      "name": "CHEM501",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem503",
+      "name": "CHEM503",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem504",
+      "name": "CHEM504",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem515",
+      "name": "CHEM515",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem520",
+      "name": "CHEM520",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem532",
+      "name": "CHEM532",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem537",
+      "name": "CHEM537",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem542",
+      "name": "CHEM542",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem560",
+      "name": "CHEM560",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem591",
+      "name": "CHEM591",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem599",
+      "name": "CHEM599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem606",
+      "name": "CHEM606",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem610",
+      "name": "CHEM610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem633",
+      "name": "CHEM633",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem644",
+      "name": "CHEM644",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem699",
+      "name": "CHEM699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem701",
+      "name": "CHEM701",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem711",
+      "name": "CHEM711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "chem712",
+      "name": "CHEM712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "CIE": [
+    {
+      "id": "cie204",
+      "name": "CIE204",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie301",
+      "name": "CIE301",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie305",
+      "name": "CIE305",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie306",
+      "name": "CIE306",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie312",
+      "name": "CIE312",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie315",
+      "name": "CIE315",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie318",
+      "name": "CIE318",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie390",
+      "name": "CIE390",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie410",
+      "name": "CIE410",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie411",
+      "name": "CIE411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie413",
+      "name": "CIE413",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie480",
+      "name": "CIE480",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "cie483",
+      "name": "CIE483",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "COE": [
+    {
+      "id": "coe202",
+      "name": "COE202",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe203",
+      "name": "COE203",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe233",
+      "name": "COE233",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe241",
+      "name": "COE241",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe292",
+      "name": "COE292",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe301",
+      "name": "COE301",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe302",
+      "name": "COE302",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe306",
+      "name": "COE306",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe344",
+      "name": "COE344",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe346",
+      "name": "COE346",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe353",
+      "name": "COE353",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe384",
+      "name": "COE384",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe411",
+      "name": "COE411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe412",
+      "name": "COE412",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe426",
+      "name": "COE426",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe427",
+      "name": "COE427",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe444",
+      "name": "COE444",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe446",
+      "name": "COE446",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe450",
+      "name": "COE450",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe452",
+      "name": "COE452",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe466",
+      "name": "COE466",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe499",
+      "name": "COE499",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe504",
+      "name": "COE504",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe540",
+      "name": "COE540",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe551",
+      "name": "COE551",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe561",
+      "name": "COE561",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe565",
+      "name": "COE565",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe589",
+      "name": "COE589",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe599",
+      "name": "COE599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe606",
+      "name": "COE606",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe610",
+      "name": "COE610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe711",
+      "name": "COE711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "coe712",
+      "name": "COE712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "CS": [
+    {
+      "id": "ics104",
+      "name": "ICS104",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics108",
+      "name": "ICS108",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics202",
+      "name": "ICS202",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics253",
+      "name": "ICS253",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics321",
+      "name": "ICS321",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics324",
+      "name": "ICS324",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics343",
+      "name": "ICS343",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics344",
+      "name": "ICS344",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics353",
+      "name": "ICS353",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics381",
+      "name": "ICS381",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics410",
+      "name": "ICS410",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics413",
+      "name": "ICS413",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics414",
+      "name": "ICS414",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics431",
+      "name": "ICS431",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics433",
+      "name": "ICS433",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics440",
+      "name": "ICS440",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics471",
+      "name": "ICS471",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics474",
+      "name": "ICS474",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics485",
+      "name": "ICS485",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics487",
+      "name": "ICS487",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics500",
+      "name": "ICS500",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics531",
+      "name": "ICS531",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics541",
+      "name": "ICS541",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics553",
+      "name": "ICS553",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics557",
+      "name": "ICS557",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics558",
+      "name": "ICS558",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics590",
+      "name": "ICS590",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics599",
+      "name": "ICS599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics606",
+      "name": "ICS606",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics610",
+      "name": "ICS610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics699",
+      "name": "ICS699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics701",
+      "name": "ICS701",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics702",
+      "name": "ICS702",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics711",
+      "name": "ICS711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ics712",
+      "name": "ICS712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "EE": [
+    {
+      "id": "ee201",
+      "name": "EE201",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee203",
+      "name": "EE203",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee204",
+      "name": "EE204",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee207",
+      "name": "EE207",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee213",
+      "name": "EE213",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee234",
+      "name": "EE234",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee235",
+      "name": "EE235",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee236",
+      "name": "EE236",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee237",
+      "name": "EE237",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee271",
+      "name": "EE271",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee272",
+      "name": "EE272",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee303",
+      "name": "EE303",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee304",
+      "name": "EE304",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee311",
+      "name": "EE311",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee312",
+      "name": "EE312",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee315",
+      "name": "EE315",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee340",
+      "name": "EE340",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee341",
+      "name": "EE341",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee360",
+      "name": "EE360",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee361",
+      "name": "EE361",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee370",
+      "name": "EE370",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee371",
+      "name": "EE371",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee380",
+      "name": "EE380",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee381",
+      "name": "EE381",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee390",
+      "name": "EE390",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee391",
+      "name": "EE391",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee400",
+      "name": "EE400",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee406",
+      "name": "EE406",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee407",
+      "name": "EE407",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee411",
+      "name": "EE411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee412",
+      "name": "EE412",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee417",
+      "name": "EE417",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee420",
+      "name": "EE420",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee425",
+      "name": "EE425",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee427",
+      "name": "EE427",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee432",
+      "name": "EE432",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee434",
+      "name": "EE434",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee458",
+      "name": "EE458",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee459",
+      "name": "EE459",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee460",
+      "name": "EE460",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee466",
+      "name": "EE466",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee467",
+      "name": "EE467",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee471",
+      "name": "EE471",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee473",
+      "name": "EE473",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee474",
+      "name": "EE474",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee478",
+      "name": "EE478",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee481",
+      "name": "EE481",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee482",
+      "name": "EE482",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee490",
+      "name": "EE490",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee520",
+      "name": "EE520",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee530",
+      "name": "EE530",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee533",
+      "name": "EE533",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee541",
+      "name": "EE541",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee542",
+      "name": "EE542",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee556",
+      "name": "EE556",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee562",
+      "name": "EE562",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee570",
+      "name": "EE570",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee571",
+      "name": "EE571",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee576",
+      "name": "EE576",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee599",
+      "name": "EE599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee600",
+      "name": "EE600",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee610",
+      "name": "EE610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee622",
+      "name": "EE622",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee625",
+      "name": "EE625",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee633",
+      "name": "EE633",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee649",
+      "name": "EE649",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee699",
+      "name": "EE699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee711",
+      "name": "EE711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ee712",
+      "name": "EE712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "FIN": [
+    {
+      "id": "fin250",
+      "name": "FIN250",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "fin315",
+      "name": "FIN315",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "fin320",
+      "name": "FIN320",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "fin410",
+      "name": "FIN410",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "fin415",
+      "name": "FIN415",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "fin425",
+      "name": "FIN425",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "fin450",
+      "name": "FIN450",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "fin510",
+      "name": "FIN510",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "GEOL": [
+    {
+      "id": "geol102",
+      "name": "GEOL102",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol103",
+      "name": "GEOL103",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol202",
+      "name": "GEOL202",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol213",
+      "name": "GEOL213",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol217",
+      "name": "GEOL217",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol305",
+      "name": "GEOL305",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol345",
+      "name": "GEOL345",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol354",
+      "name": "GEOL354",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol444",
+      "name": "GEOL444",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol455",
+      "name": "GEOL455",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol457",
+      "name": "GEOL457",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol470",
+      "name": "GEOL470",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol480",
+      "name": "GEOL480",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol490",
+      "name": "GEOL490",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol499",
+      "name": "GEOL499",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol501",
+      "name": "GEOL501",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol502",
+      "name": "GEOL502",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol506",
+      "name": "GEOL506",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol512",
+      "name": "GEOL512",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol531",
+      "name": "GEOL531",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol543",
+      "name": "GEOL543",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol584",
+      "name": "GEOL584",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol590",
+      "name": "GEOL590",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol591",
+      "name": "GEOL591",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol592",
+      "name": "GEOL592",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol594",
+      "name": "GEOL594",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol600",
+      "name": "GEOL600",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol601",
+      "name": "GEOL601",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol610",
+      "name": "GEOL610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol640",
+      "name": "GEOL640",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol699",
+      "name": "GEOL699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol701",
+      "name": "GEOL701",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol702",
+      "name": "GEOL702",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol711",
+      "name": "GEOL711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geol712",
+      "name": "GEOL712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "GEOP": [
+    {
+      "id": "geop205",
+      "name": "GEOP205",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop215",
+      "name": "GEOP215",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop416",
+      "name": "GEOP416",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop430",
+      "name": "GEOP430",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop480",
+      "name": "GEOP480",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop497",
+      "name": "GEOP497",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop501",
+      "name": "GEOP501",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop502",
+      "name": "GEOP502",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop510",
+      "name": "GEOP510",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop591",
+      "name": "GEOP591",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop592",
+      "name": "GEOP592",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop599",
+      "name": "GEOP599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop602",
+      "name": "GEOP602",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop603",
+      "name": "GEOP603",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop610",
+      "name": "GEOP610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop613",
+      "name": "GEOP613",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop618",
+      "name": "GEOP618",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop642",
+      "name": "GEOP642",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop690",
+      "name": "GEOP690",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop691",
+      "name": "GEOP691",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop699",
+      "name": "GEOP699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop701",
+      "name": "GEOP701",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop702",
+      "name": "GEOP702",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop711",
+      "name": "GEOP711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "geop712",
+      "name": "GEOP712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "HRM": [
+    {
+      "id": "hrm301",
+      "name": "HRM301",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "hrm390",
+      "name": "HRM390",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "hrm402",
+      "name": "HRM402",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "hrm520",
+      "name": "HRM520",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "hrm522",
+      "name": "HRM522",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "ISE": [
+    {
+      "id": "ise205",
+      "name": "ISE205",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise291",
+      "name": "ISE291",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise303",
+      "name": "ISE303",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise307",
+      "name": "ISE307",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise315",
+      "name": "ISE315",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise320",
+      "name": "ISE320",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise321",
+      "name": "ISE321",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise324",
+      "name": "ISE324",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise391",
+      "name": "ISE391",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise402",
+      "name": "ISE402",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise405",
+      "name": "ISE405",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise411",
+      "name": "ISE411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise412",
+      "name": "ISE412",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise420",
+      "name": "ISE420",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise422",
+      "name": "ISE422",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise429",
+      "name": "ISE429",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise440",
+      "name": "ISE440",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise443",
+      "name": "ISE443",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise447",
+      "name": "ISE447",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise448",
+      "name": "ISE448",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise468",
+      "name": "ISE468",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise470",
+      "name": "ISE470",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise499",
+      "name": "ISE499",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise503",
+      "name": "ISE503",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise504",
+      "name": "ISE504",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise508",
+      "name": "ISE508",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise590",
+      "name": "ISE590",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise599",
+      "name": "ISE599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise606",
+      "name": "ISE606",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise610",
+      "name": "ISE610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise651",
+      "name": "ISE651",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise699",
+      "name": "ISE699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise711",
+      "name": "ISE711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ise712",
+      "name": "ISE712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "ITD": [
+    {
+      "id": "itd202",
+      "name": "ITD202",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "itd211",
+      "name": "ITD211",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "itd304",
+      "name": "ITD304",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "itd313",
+      "name": "ITD313",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "MATH": [
+    {
+      "id": "math101",
+      "name": "MATH101",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math102",
+      "name": "MATH102",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math106",
+      "name": "MATH106",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math201",
+      "name": "MATH201",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math208",
+      "name": "MATH208",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math210",
+      "name": "MATH210",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math225",
+      "name": "MATH225",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math333",
+      "name": "MATH333",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math341",
+      "name": "MATH341",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math371",
+      "name": "MATH371",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math405",
+      "name": "MATH405",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math435",
+      "name": "MATH435",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math445",
+      "name": "MATH445",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math451",
+      "name": "MATH451",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math467",
+      "name": "MATH467",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math490",
+      "name": "MATH490",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math498",
+      "name": "MATH498",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math513",
+      "name": "MATH513",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math525",
+      "name": "MATH525",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math533",
+      "name": "MATH533",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math550",
+      "name": "MATH550",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math559",
+      "name": "MATH559",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math565",
+      "name": "MATH565",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math569",
+      "name": "MATH569",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math599",
+      "name": "MATH599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math601",
+      "name": "MATH601",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math610",
+      "name": "MATH610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math645",
+      "name": "MATH645",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math654",
+      "name": "MATH654",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math699",
+      "name": "MATH699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math711",
+      "name": "MATH711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "math712",
+      "name": "MATH712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "ME": [
+    {
+      "id": "me201",
+      "name": "ME201",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me203",
+      "name": "ME203",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me204",
+      "name": "ME204",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me207",
+      "name": "ME207",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me210",
+      "name": "ME210",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me216",
+      "name": "ME216",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me217",
+      "name": "ME217",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me218",
+      "name": "ME218",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me301",
+      "name": "ME301",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me302",
+      "name": "ME302",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me303",
+      "name": "ME303",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me311",
+      "name": "ME311",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me315",
+      "name": "ME315",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me316",
+      "name": "ME316",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me322",
+      "name": "ME322",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me323",
+      "name": "ME323",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me401",
+      "name": "ME401",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me402",
+      "name": "ME402",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me411",
+      "name": "ME411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me412",
+      "name": "ME412",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me417",
+      "name": "ME417",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me418",
+      "name": "ME418",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me421",
+      "name": "ME421",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me423",
+      "name": "ME423",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me427",
+      "name": "ME427",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me429",
+      "name": "ME429",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me430",
+      "name": "ME430",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me432",
+      "name": "ME432",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me435",
+      "name": "ME435",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me438",
+      "name": "ME438",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me439",
+      "name": "ME439",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me444",
+      "name": "ME444",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me454",
+      "name": "ME454",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me455",
+      "name": "ME455",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me472",
+      "name": "ME472",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me476",
+      "name": "ME476",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me482",
+      "name": "ME482",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me489",
+      "name": "ME489",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me490",
+      "name": "ME490",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me495",
+      "name": "ME495",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me505",
+      "name": "ME505",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me523",
+      "name": "ME523",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me525",
+      "name": "ME525",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me527",
+      "name": "ME527",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me528",
+      "name": "ME528",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me531",
+      "name": "ME531",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me532",
+      "name": "ME532",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me536",
+      "name": "ME536",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me539",
+      "name": "ME539",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me545",
+      "name": "ME545",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me548",
+      "name": "ME548",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me551",
+      "name": "ME551",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me552",
+      "name": "ME552",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me553",
+      "name": "ME553",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me560",
+      "name": "ME560",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me571",
+      "name": "ME571",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me575",
+      "name": "ME575",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me576",
+      "name": "ME576",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me577",
+      "name": "ME577",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me582",
+      "name": "ME582",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me586",
+      "name": "ME586",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me587",
+      "name": "ME587",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me599",
+      "name": "ME599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me600",
+      "name": "ME600",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me606",
+      "name": "ME606",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me610",
+      "name": "ME610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me612",
+      "name": "ME612",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me699",
+      "name": "ME699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me701",
+      "name": "ME701",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me702",
+      "name": "ME702",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me711",
+      "name": "ME711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "me712",
+      "name": "ME712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "MIS": [
+    {
+      "id": "mis250",
+      "name": "MIS250",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mis301",
+      "name": "MIS301",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mis311",
+      "name": "MIS311",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mis315",
+      "name": "MIS315",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mis341",
+      "name": "MIS341",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mis393",
+      "name": "MIS393",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mis405",
+      "name": "MIS405",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mis511",
+      "name": "MIS511",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mis512",
+      "name": "MIS512",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mis541",
+      "name": "MIS541",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "MINE": [
+    {
+      "id": "mine200",
+      "name": "MINE200",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "MKT": [
+    {
+      "id": "mkt250",
+      "name": "MKT250",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mkt345",
+      "name": "MKT345",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mkt360",
+      "name": "MKT360",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mkt370",
+      "name": "MKT370",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mkt420",
+      "name": "MKT420",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mkt485",
+      "name": "MKT485",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mkt490",
+      "name": "MKT490",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mkt510",
+      "name": "MKT510",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mkt526",
+      "name": "MKT526",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mkt541",
+      "name": "MKT541",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "MSE": [
+    {
+      "id": "mse201",
+      "name": "MSE201",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse202",
+      "name": "MSE202",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse203",
+      "name": "MSE203",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse301",
+      "name": "MSE301",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse302",
+      "name": "MSE302",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse303",
+      "name": "MSE303",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse401",
+      "name": "MSE401",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse402",
+      "name": "MSE402",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse411",
+      "name": "MSE411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse434",
+      "name": "MSE434",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse500",
+      "name": "MSE500",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse501",
+      "name": "MSE501",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse502",
+      "name": "MSE502",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse510",
+      "name": "MSE510",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse531",
+      "name": "MSE531",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse535",
+      "name": "MSE535",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse549",
+      "name": "MSE549",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse599",
+      "name": "MSE599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse606",
+      "name": "MSE606",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "mse610",
+      "name": "MSE610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "PETE": [
+    {
+      "id": "pete101",
+      "name": "PETE101",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete202",
+      "name": "PETE202",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete301",
+      "name": "PETE301",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete311",
+      "name": "PETE311",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete313",
+      "name": "PETE313",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete402",
+      "name": "PETE402",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete406",
+      "name": "PETE406",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete407",
+      "name": "PETE407",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete424",
+      "name": "PETE424",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete432",
+      "name": "PETE432",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete461",
+      "name": "PETE461",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete464",
+      "name": "PETE464",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete465",
+      "name": "PETE465",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete471",
+      "name": "PETE471",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete490",
+      "name": "PETE490",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete495",
+      "name": "PETE495",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete513",
+      "name": "PETE513",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete525",
+      "name": "PETE525",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete532",
+      "name": "PETE532",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete544",
+      "name": "PETE544",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete546",
+      "name": "PETE546",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete552",
+      "name": "PETE552",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete560",
+      "name": "PETE560",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete592",
+      "name": "PETE592",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete599",
+      "name": "PETE599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete606",
+      "name": "PETE606",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete610",
+      "name": "PETE610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete611",
+      "name": "PETE611",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete619",
+      "name": "PETE619",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete635",
+      "name": "PETE635",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete637",
+      "name": "PETE637",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete699",
+      "name": "PETE699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete701",
+      "name": "PETE701",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete702",
+      "name": "PETE702",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete711",
+      "name": "PETE711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "pete712",
+      "name": "PETE712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "PHYS": [
+    {
+      "id": "phys101",
+      "name": "PHYS101",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys102",
+      "name": "PHYS102",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys204",
+      "name": "PHYS204",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys205",
+      "name": "PHYS205",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys215",
+      "name": "PHYS215",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys300",
+      "name": "PHYS300",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys305",
+      "name": "PHYS305",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys308",
+      "name": "PHYS308",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys336",
+      "name": "PHYS336",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys403",
+      "name": "PHYS403",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys410",
+      "name": "PHYS410",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys423",
+      "name": "PHYS423",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys432",
+      "name": "PHYS432",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys441",
+      "name": "PHYS441",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys471",
+      "name": "PHYS471",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys497",
+      "name": "PHYS497",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys499",
+      "name": "PHYS499",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys501",
+      "name": "PHYS501",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys507",
+      "name": "PHYS507",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys516",
+      "name": "PHYS516",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys532",
+      "name": "PHYS532",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys561",
+      "name": "PHYS561",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys571",
+      "name": "PHYS571",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys599",
+      "name": "PHYS599",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys610",
+      "name": "PHYS610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys630",
+      "name": "PHYS630",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys699",
+      "name": "PHYS699",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys701",
+      "name": "PHYS701",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys702",
+      "name": "PHYS702",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys711",
+      "name": "PHYS711",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "phys712",
+      "name": "PHYS712",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "SSC": [
+    {
+      "id": "ssc200",
+      "name": "SSC200",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ssc201",
+      "name": "SSC201",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "ssc211",
+      "name": "SSC211",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ],
+  "SWE": [
+    {
+      "id": "swe206",
+      "name": "SWE206",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe216",
+      "name": "SWE216",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe316",
+      "name": "SWE316",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe326",
+      "name": "SWE326",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe363",
+      "name": "SWE363",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe387",
+      "name": "SWE387",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe411",
+      "name": "SWE411",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe412",
+      "name": "SWE412",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe439",
+      "name": "SWE439",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe463",
+      "name": "SWE463",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe490",
+      "name": "SWE490",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe515",
+      "name": "SWE515",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe595",
+      "name": "SWE595",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    },
+    {
+      "id": "swe610",
+      "name": "SWE610",
+      "quizzes": "Quizzes",
+      "exams": "Old Exams",
+      "notes": "Notes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "project_complete",
+  "version": "1.0.0",
+  "main": "updated_script.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@clerk/clerk-js": "^5.43.4",
+    "@clerk/clerk-sdk-node": "^5.1.4",
+    "@clerk/nextjs": "^6.9.6",
+    "axios": "^1.7.9",
+    "axios-cookiejar-support": "^5.0.5",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fetch-cookie": "^3.1.0",
+    "firebase": "^11.1.0",
+    "mongoose": "^8.9.3",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^23.11.1",
+    "tough-cookie": "^5.0.0"
+  }
+}
