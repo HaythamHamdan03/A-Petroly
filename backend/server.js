@@ -166,8 +166,7 @@ app.delete("/liked-courses", checkAuth, async (req, res) => {
   }
 });
 
-// Endpoint to retrieve files
-// Endpoint to retrieve files from MongoDB
+
 // Endpoint to retrieve files based on query parameters (metadata only)
 app.get("/files", async (req, res) => {
   try {
