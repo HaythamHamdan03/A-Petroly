@@ -9,7 +9,7 @@ const LikedCourse = require("./models/LikedCourse"); // Import the model
 
 dotenv.config();
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.json()); // Parse incoming JSON requests
 
@@ -287,5 +287,5 @@ app.use((req, res) => {
 
 // Start the server
 app.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}`);
+  console.log(`Server running at http://0.0.0.0:${PORT}`); // For Heroku
 });
